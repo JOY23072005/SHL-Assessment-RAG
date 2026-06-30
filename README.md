@@ -287,7 +287,7 @@ HF_TOKEN=YOUR_HF_TOKEN_API_KEY
 ---
 
 # Notes
-- [Live URL(cold start-60 seconds)] (https://dashboard.render.com/login)
+- [Live URL (cold start: 60 seconds)](https://dashboard.render.com/login)
 - ![Screenshot](image.png)
 - Uses precomputed FAISS embeddings for faster startup
 - Optimized for CPU-only deployment
