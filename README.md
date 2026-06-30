@@ -287,7 +287,7 @@ HF_TOKEN=YOUR_HF_TOKEN_API_KEY
 ---
 
 # Notes
-- [Live URL (cold start: 60 seconds)]([https://dashboard.render.com/login](https://shl-assessment-rag-tn3f.onrender.com)
+- Live URL (cold start: 60 seconds) [Render Backend](https://shl-assessment-rag-tn3f.onrender.com)
 - ![Screenshot](image.png)
 - Uses precomputed FAISS embeddings for faster startup
 - Optimized for CPU-only deployment
